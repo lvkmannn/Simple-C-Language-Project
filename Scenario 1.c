@@ -1,6 +1,3 @@
-/* NAME : LUKMAN NUR HAFIZ BIN RAMLI
-   STUDENT NUMBER : 2020490962 */	
-
 #include<stdio.h>
 
 int main()
